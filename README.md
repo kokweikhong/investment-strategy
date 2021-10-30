@@ -1,3 +1,7 @@
+## Welcome everyone to contribute this repo
+
+## Under development
+
 ## Backtest Result Data
 
 1. Instrument
@@ -14,6 +18,6 @@
 1. Initial Capital
 1. Total Gains On Account
 
-[a relative link](./SMA_PullBack)
+## Strategy Quick Link
 
-[a relative link](SMA_Pullback/README.md)
+[SMA Pull Back](./SMA_PullBack)
